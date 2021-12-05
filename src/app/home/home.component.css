@@ -1,0 +1,111 @@
+.home-body {
+    width: 100%;
+    height: 95%;
+    margin-top: 20px;
+    margin-right: 0px;
+    overflow-y: auto;
+    scroll-padding: smooth;
+}
+
+.team-members {
+    margin-top: 100px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    height: 300px;
+}
+
+.member {
+    background-color: rgba(34, 33, 33, 0.356);
+    color: rgba(245, 245, 245, 0.589);
+    align-content: center;
+}
+
+.tittle {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-self: center;
+}
+
+.content {
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 60px;
+}
+
+.box1 {
+
+    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: rgba(245, 245, 245, 0.747);
+    background: rgba(255, 245, 238, 0.082);
+    height: 220px;
+}
+
+.box11 {
+    width: 60%;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.box12 {
+    width: 40%;
+    margin-right: 30px;
+}
+
+.box2 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: rgba(245, 245, 245, 0.747);
+    background: rgba(255, 245, 238, 0.082);
+    height: 220px;
+}
+
+.box21 {
+    width: 60%;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.box22 {
+    width: 40%;
+    margin-right: 30px;
+}
+
+.question-box {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: rgba(245, 245, 245, 0.747);
+    background: rgba(255, 245, 238, 0.082);
+    height: 400px;
+    overflow-y: auto;
+    scroll-padding: smooth;
+}
+
+.tittle-q {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-self: center;
+}
+
+.content-q {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 60px;
+}
